@@ -126,7 +126,7 @@ sudo apt install python3-tk
 **Passos:**
 
 ```bash
-git clone <URL-DO-REPOSITORIO>
+git clone https://github.com/danilotavares-dev/gerenciador-senhas-clinica.git
 cd clinica-medica
 python main.py
 ```
