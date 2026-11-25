@@ -6,6 +6,7 @@ Trabalho prático da disciplina **Estrutura de Dados II**, sob orientação da P
 
 * Danilo Tavares Lima - 43440924
 * Pedro Artur Sousa Gomes - 42633231
+* Vinicius patricio Souza barbosa de Oliveira - 042543053
 
 
 ## Vídeo demonstrativo
