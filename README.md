@@ -5,6 +5,8 @@ Trabalho prático da disciplina **Estrutura de Dados II**, sob orientação da P
 ## Integrantes
 
 * Danilo Tavares Lima - 43440924
+* Pedro Artur Sousa Gomes - 42633231
+
 
 ## Vídeo demonstrativo
 
