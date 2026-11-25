@@ -10,7 +10,7 @@ Trabalho prático da disciplina **Estrutura de Dados II**, sob orientação da P
 
 ## Vídeo demonstrativo
 
-Link do vídeo: **[PENDENTE]**
+Link do vídeo: **[Baixar vídeo da demonstração do sistema](https://github.com/danilotavares-dev/gerenciador-senhas-clinica/releases/download/v1.0.0/demonstracao-projeto-pratico-ed2-video.mp4)**
 
 ## Situação-problema
 
